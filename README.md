@@ -46,4 +46,4 @@ I am going to continue developing projects with js in comming future.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/swanand-op)
+- Frontend Mentor - [@swanand-op](https://www.frontendmentor.io/profile/swanand-op)
